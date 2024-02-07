@@ -2,6 +2,6 @@
   "name": "Neutron299",
   "website": "",
   "description": "",
-<arth-vader-movie-character-png-image_5169361.png",
+  "logo": "",
   "twitter": "https://twitter.com/sadistt1c"
 }
